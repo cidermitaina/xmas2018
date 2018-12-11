@@ -64,7 +64,7 @@ article
       padding: 0 30px 60px;
     }
     p {
-      line-height: 1.3;
+      line-height: 1.4;
       font-size: 1em;
       padding-top: 10px;
     }
