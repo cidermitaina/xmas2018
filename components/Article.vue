@@ -20,7 +20,7 @@ article
       li  Rice
       li  Salad
       li  Roast Beef
-      li  Lost chicken
+      li  Roast chicken
       li  Ground Meat Cutlet
       li  Stew
       li  Christmas cake
