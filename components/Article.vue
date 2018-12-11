@@ -20,13 +20,13 @@ article
       li  Rice
       li  Salad
       li  Roast Beef
-      li  Roast chicken
+      li  Roast Chicken
       li  Ground Meat Cutlet
       li  Stew
-      li  Christmas cake
-      li  Sparkling wine
-      li  Wine（red/white）
-      li  Plum wine
+      li  Christmas Cake
+      li  Sparkling Wine
+      li  Wine（Red/White）
+      li  Plum Wine
     h2
       | Timetable
     p
